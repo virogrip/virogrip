@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+💻 **Técnico en Ingeniería en Computación**
+🧩 **Enthusiastic learner**
+
+![website](https://img.shields.io/github/commit-activity/w/virogrip/git-github)
+
 <!--
 **virogrip/virogrip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
