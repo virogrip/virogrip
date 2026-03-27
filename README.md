@@ -4,12 +4,14 @@ Soy **Técnico en Ingeniería en Computación** con una mentalidad enfocada en l
 
 ---
 
+<!-- 
 ## 🚀 Sobre mí
 
 - **Enfoque Actual**: Desarrollo de aplicaciones modernas utilizando el ecosistema de **React** y arquitecturas robustas en **Laravel**.
 - **Filosofía**: Diseño de interfaces *mobile-first* para garantizar que la experiencia del usuario sea impecable en cualquier dispositivo.
 
 ---
+-->
 
 ## 🛠️ Mi Stack Tecnológico
 
